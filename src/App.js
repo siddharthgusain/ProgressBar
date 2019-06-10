@@ -9,7 +9,7 @@ class  App extends Component  {
     {
       super(props);
       this.state = {
-        percent:100
+        percent:60
       }
     }
 
